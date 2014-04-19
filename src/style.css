@@ -1,0 +1,16 @@
+#fast, #slow {
+    float: right;
+    margin-right: 500px;
+}
+h3 {
+    margin-top: 0px;
+}
+#sandbox {
+    float: left;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin-left: 50px;
+    border: 1px solid black;
+    height: 500px;
+    width: 100px;
+}
